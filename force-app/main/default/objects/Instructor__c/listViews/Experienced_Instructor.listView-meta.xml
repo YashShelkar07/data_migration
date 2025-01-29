@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Experienced_Instructor</fullName>
+    <columns>NAME</columns>
+    <filterScope>Mine</filterScope>
+    <filters>
+        <field>Year_of_Experience__c</field>
+        <operation>greaterOrEqual</operation>
+        <value>5</value>
+    </filters>
+    <label>Experienced Instructor</label>
+</ListView>
