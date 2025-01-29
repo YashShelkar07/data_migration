@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <outboundMessages>
+        <fullName>Insert_Account</fullName>
+        <apiVersion>59.0</apiVersion>
+        <endpointUrl>https://apse1.dm-ap.informaticacloud.com/saas/api/1/salesforceoutboundmessage/xOsm2jw9R5BjBEGeWWRP4Rsd072RTFyn</endpointUrl>
+        <fields>AccountNumber</fields>
+        <fields>AccountSource</fields>
+        <fields>Active__c</fields>
+        <fields>AnnualRevenue</fields>
+        <fields>BillingCity</fields>
+        <fields>BillingCountry</fields>
+        <fields>BillingGeocodeAccuracy</fields>
+        <fields>BillingLatitude</fields>
+        <fields>BillingLongitude</fields>
+        <fields>BillingPostalCode</fields>
+        <fields>BillingState</fields>
+        <fields>BillingStreet</fields>
+        <fields>CleanStatus</fields>
+        <fields>Id</fields>
+        <includeSessionId>false</includeSessionId>
+        <integrationUser>yashshelkar502@mindful-badger-ehi7b1.com</integrationUser>
+        <name>Insert Account</name>
+        <protected>false</protected>
+        <useDeadLetterQueue>false</useDeadLetterQueue>
+    </outboundMessages>
+    <rules>
+        <fullName>Insert Account</fullName>
+        <actions>
+            <name>Insert_Account</name>
+            <type>OutboundMessage</type>
+        </actions>
+        <active>true</active>
+        <formula>1=1</formula>
+        <triggerType>onCreateOnly</triggerType>
+    </rules>
+</Workflow>

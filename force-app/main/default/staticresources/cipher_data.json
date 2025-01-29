@@ -1,0 +1,2502 @@
+[
+  {
+    "Key__c": 707661,
+    "Value__c": "SOUR",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": "013864",
+    "Value__c": "COLLABORATION",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 368231,
+    "Value__c": "UNIFORM",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 974040,
+    "Value__c": "MIDDLEWARE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": "058162",
+    "Value__c": "WAREHOUSE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 997970,
+    "Value__c": "HIGH",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 729238,
+    "Value__c": "DEALER",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 749821,
+    "Value__c": "THRUST",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 445617,
+    "Value__c": "CUSTOMER",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": "031803",
+    "Value__c": "BACKGROUND",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 897586,
+    "Value__c": "CAPACITY",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 904372,
+    "Value__c": "RESPONSIVE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 794780,
+    "Value__c": "COMPLEXITY",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 360937,
+    "Value__c": "BUDGETARY",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 924012,
+    "Value__c": "ADAPTIVE",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 518249,
+    "Value__c": "LOSE",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 971726,
+    "Value__c": "LIGHT",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 181307,
+    "Value__c": "SENSITIVE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 749088,
+    "Value__c": "PROGRESSIVE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 832964,
+    "Value__c": "BASED",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 553103,
+    "Value__c": "FRAIL",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 360987,
+    "Value__c": "BUFFERED",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 564720,
+    "Value__c": "APPROACH",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 741574,
+    "Value__c": "REALTOR",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 890537,
+    "Value__c": "INVERSE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 974015,
+    "Value__c": "DATA",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 474286,
+    "Value__c": "COMPLICATION",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 224667,
+    "Value__c": "OF",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 956725,
+    "Value__c": "LEGISLATURE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 548167,
+    "Value__c": "SINGER",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 240480,
+    "Value__c": "DISTRIBUTED",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 110014,
+    "Value__c": "OPEN",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 396246,
+    "Value__c": "REASON",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 807664,
+    "Value__c": "UNIVERSAL",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 899963,
+    "Value__c": "CONSTITUTION",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 391851,
+    "Value__c": "TAP",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 108203,
+    "Value__c": "VISIONARY",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 614897,
+    "Value__c": "SYSTEM",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 407634,
+    "Value__c": "DEPOSIT",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 708289,
+    "Value__c": "SPEECH",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 567288,
+    "Value__c": "INSTALLATION",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 144475,
+    "Value__c": "JUST",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 532168,
+    "Value__c": "COMPOSITE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 932071,
+    "Value__c": "CRITICAL",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": "012426",
+    "Value__c": "ASYLUM",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 764330,
+    "Value__c": "CLASH",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 665117,
+    "Value__c": "INTERFACE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 825736,
+    "Value__c": "THEATER",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 418103,
+    "Value__c": "ENGINE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 432652,
+    "Value__c": "SKIP",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 222525,
+    "Value__c": "MISS",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 405227,
+    "Value__c": "FAULT",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 455863,
+    "Value__c": "TASK",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 997169,
+    "Value__c": "DESK",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 357595,
+    "Value__c": "TEAM",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": "029233",
+    "Value__c": "QUOTA",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 146238,
+    "Value__c": "COOPERATE",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 409512,
+    "Value__c": "THIRD",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 262481,
+    "Value__c": "ERGONOMIC",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 685457,
+    "Value__c": "ARRAY",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 559765,
+    "Value__c": "EXTRANET",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 118424,
+    "Value__c": "OPTIMIZED",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": "022130",
+    "Value__c": "FEEL",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 536154,
+    "Value__c": "RIGHT",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 561155,
+    "Value__c": "KNOWLEDGE",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 472246,
+    "Value__c": "MODERNIZE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 360550,
+    "Value__c": "SOAK",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 344577,
+    "Value__c": "FRAME",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 778359,
+    "Value__c": "GLOBAL",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 576430,
+    "Value__c": "CREEP",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 679347,
+    "Value__c": "INTELLIGENCE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 864374,
+    "Value__c": "HEMISPHERE",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 920941,
+    "Value__c": "LOOP",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 657582,
+    "Value__c": "FLUCTUATION",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 530184,
+    "Value__c": "PHYSICS",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 301913,
+    "Value__c": "CREATION",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 602592,
+    "Value__c": "ASSIMILATED",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 665505,
+    "Value__c": "NEEDS",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 491942,
+    "Value__c": "MAGNETIC",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 854739,
+    "Value__c": "ATHLETE",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 432595,
+    "Value__c": "GRASS",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 907200,
+    "Value__c": "MERIT",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": "030545",
+    "Value__c": "MAXIMIZED",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 916894,
+    "Value__c": "DECENTRALIZED",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 518484,
+    "Value__c": "ABOVE",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 172521,
+    "Value__c": "STUNNING",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 754105,
+    "Value__c": "MULTI-LAYERED",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 223883,
+    "Value__c": "FORCE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": "009853",
+    "Value__c": "FLU",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 852160,
+    "Value__c": "SNAIL",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": "077684",
+    "Value__c": "SIZED",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 726727,
+    "Value__c": "FEMINIST",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 340792,
+    "Value__c": "SYNCHRONISED",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 255179,
+    "Value__c": "RADICAL",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 336609,
+    "Value__c": "FIRM",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 648959,
+    "Value__c": "PACE",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": "094214",
+    "Value__c": "THROUGHPUT",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 706983,
+    "Value__c": "EFFECT",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 822880,
+    "Value__c": "GRAB",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 301416,
+    "Value__c": "SUPPORT",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 771894,
+    "Value__c": "STUFF",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 438913,
+    "Value__c": "FULL",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 188601,
+    "Value__c": "PROFOUND",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 966304,
+    "Value__c": "OBSERVATION",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 833572,
+    "Value__c": "NEXT",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 340849,
+    "Value__c": "POLICY",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 442635,
+    "Value__c": "UPSIZED",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": "017570",
+    "Value__c": "DULL",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 937275,
+    "Value__c": "CHAOS",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 873247,
+    "Value__c": "LEVERAGE",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 854557,
+    "Value__c": "LINEAGE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 333520,
+    "Value__c": "IMPLEMENTED",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 246133,
+    "Value__c": "PORTENT",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 298356,
+    "Value__c": "PERIOD",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 768326,
+    "Value__c": "AND",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": "099593",
+    "Value__c": "CUSTOM",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 407103,
+    "Value__c": "BATHTUB",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 217080,
+    "Value__c": "DISTRIBUTOR",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 815744,
+    "Value__c": "GHOSTWRITER",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 767892,
+    "Value__c": "SPORT",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": "021934",
+    "Value__c": "DEVOLVED",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 292956,
+    "Value__c": "MORATORIUM",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 922220,
+    "Value__c": "ARCHITECT",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 987054,
+    "Value__c": "TWILIGHT",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 120856,
+    "Value__c": "PRINTER",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": "098403",
+    "Value__c": "GROUP",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": "070304",
+    "Value__c": "TOTALLED",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": "016740",
+    "Value__c": "CONGLOMERATE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 152511,
+    "Value__c": "CENTRALIZED",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 287270,
+    "Value__c": "ALBUM",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 177176,
+    "Value__c": "EMOTION",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 595729,
+    "Value__c": "WORTHY",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 189315,
+    "Value__c": "DYNAMIC",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 476941,
+    "Value__c": "EQUINOX",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 526986,
+    "Value__c": "MOTIVATING",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 670238,
+    "Value__c": "SECONDARY",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 319058,
+    "Value__c": "CLERK",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 935421,
+    "Value__c": "ABILITY",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 973121,
+    "Value__c": "PHASED",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": "037599",
+    "Value__c": "SCALABLE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 128741,
+    "Value__c": "EAVESDROP",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 308755,
+    "Value__c": "FOCUS",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 455065,
+    "Value__c": "INTUITIVE",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 368636,
+    "Value__c": "ORIENTED",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 601897,
+    "Value__c": "SYNERGIZED",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 985547,
+    "Value__c": "INTEGRATED",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": "084555",
+    "Value__c": "INITIATIVE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 957345,
+    "Value__c": "DEDICATED",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 443502,
+    "Value__c": "HOUR",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": "007585",
+    "Value__c": "EXECUTIVE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 541225,
+    "Value__c": "SEVEN",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 640253,
+    "Value__c": "FRONT",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 207006,
+    "Value__c": "DIRECTIONAL",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 725837,
+    "Value__c": "PARALLELISM",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 920458,
+    "Value__c": "CONFIGURABLE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 891373,
+    "Value__c": "UNDERLINE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 735045,
+    "Value__c": "RANK",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 292291,
+    "Value__c": "DRUM",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 892253,
+    "Value__c": "EMBOX",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 128749,
+    "Value__c": "BOOTS",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 925204,
+    "Value__c": "CHOMP",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 527891,
+    "Value__c": "GIVE",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": "062160",
+    "Value__c": "ELECTRONICS",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 855266,
+    "Value__c": "SEAMLESS",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 748680,
+    "Value__c": "THANK",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 975843,
+    "Value__c": "STEEP",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 223401,
+    "Value__c": "INFO",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 509393,
+    "Value__c": "GRIP",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 129090,
+    "Value__c": "HORSESHOE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 444429,
+    "Value__c": "LOGIC",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 694162,
+    "Value__c": "QUALIFICATION",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 479137,
+    "Value__c": "HUNTER",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 461292,
+    "Value__c": "GASP",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 286188,
+    "Value__c": "OPTIMAL",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 997500,
+    "Value__c": "DIDACTIC",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 526579,
+    "Value__c": "ENCODING",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 972091,
+    "Value__c": "DEFECT",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 395888,
+    "Value__c": "TWITCH",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 524632,
+    "Value__c": "EDGE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": "075201",
+    "Value__c": "FORECAST",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 735589,
+    "Value__c": "SUCCESS",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 651599,
+    "Value__c": "THINKING",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 576030,
+    "Value__c": "CONSTRUCT",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 136649,
+    "Value__c": "CONTEXTUALLY",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 899027,
+    "Value__c": "MODEL",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 232906,
+    "Value__c": "ACCOUNT",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 339457,
+    "Value__c": "CALORIE",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": "094004",
+    "Value__c": "MATRICES",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 477924,
+    "Value__c": "PROCESS",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 127835,
+    "Value__c": "TOLERANCE",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 132750,
+    "Value__c": "BENCHMARK",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 653010,
+    "Value__c": "EXUDING",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 981726,
+    "Value__c": "UP",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": "048042",
+    "Value__c": "ENCOMPASSING",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 827132,
+    "Value__c": "TRICKS",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 121352,
+    "Value__c": "FRESH",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 867000,
+    "Value__c": "RELIABLE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 787417,
+    "Value__c": "REDUCED",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 560526,
+    "Value__c": "ORCHESTRATION",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 970314,
+    "Value__c": "ROOTS",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 585696,
+    "Value__c": "LEAD",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 538379,
+    "Value__c": "GENERATION",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 304606,
+    "Value__c": "SHOULDER",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 826346,
+    "Value__c": "APOLOGY",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 860562,
+    "Value__c": "EMULATION",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 810683,
+    "Value__c": "EVEN",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 728050,
+    "Value__c": "TRIPLE",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 360933,
+    "Value__c": "GENERAL",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 785147,
+    "Value__c": "SIT",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 663741,
+    "Value__c": "DRAWER",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 405023,
+    "Value__c": "PROJECTION",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 912947,
+    "Value__c": "CLEAN",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 375312,
+    "Value__c": "COMBINE",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 984726,
+    "Value__c": "REVERSE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 778812,
+    "Value__c": "INNOVATIVE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 286045,
+    "Value__c": "CELLAR",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 953003,
+    "Value__c": "APPLICATION",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 989803,
+    "Value__c": "WIDE",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 660784,
+    "Value__c": "ALONE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 187910,
+    "Value__c": "MOUSE",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 782389,
+    "Value__c": "DELETE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": "037926",
+    "Value__c": "ENCRYPTION",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 321681,
+    "Value__c": "ZERO",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 439161,
+    "Value__c": "STRUCTURE",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 799418,
+    "Value__c": "FUN",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 874080,
+    "Value__c": "ALGORITHM",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 463422,
+    "Value__c": "FIFTH",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 199517,
+    "Value__c": "MINE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 259278,
+    "Value__c": "TO",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 160188,
+    "Value__c": "MULTI-TASKING",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 926298,
+    "Value__c": "CHAMPION",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 867052,
+    "Value__c": "ARTIFICIAL",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 211598,
+    "Value__c": "FAIR",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 966072,
+    "Value__c": "FAR",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 773511,
+    "Value__c": "SPELL",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 247148,
+    "Value__c": "MOVE",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 678893,
+    "Value__c": "SHOP",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 354224,
+    "Value__c": "COMPACT",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 377174,
+    "Value__c": "STATIC",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 624670,
+    "Value__c": "BIFURCATED",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 183750,
+    "Value__c": "SECTOR",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 351550,
+    "Value__c": "CHEEK",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 245888,
+    "Value__c": "OPTIMIZING",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 652740,
+    "Value__c": "ARCHIVE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": "023317",
+    "Value__c": "FOLD",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 898366,
+    "Value__c": "LOYALTY",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 726595,
+    "Value__c": "SCRIPT",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 339575,
+    "Value__c": "DEMONSTRATOR",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": "018101",
+    "Value__c": "POSSIBLE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 131738,
+    "Value__c": "OBSERVER",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 804122,
+    "Value__c": "EXTINCT",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 655244,
+    "Value__c": "TOTAL",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 236025,
+    "Value__c": "IMPROVEMENT",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 684890,
+    "Value__c": "HUB",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 102372,
+    "Value__c": "KEY",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 485434,
+    "Value__c": "HOROSCOPE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 869483,
+    "Value__c": "TANGIBLE",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 637370,
+    "Value__c": "DIP",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 717068,
+    "Value__c": "HABITAT",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": "027646",
+    "Value__c": "QUALITY",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 515916,
+    "Value__c": "SENIOR",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 885938,
+    "Value__c": "METHODOLOGY",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 160660,
+    "Value__c": "MODULATED",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 604753,
+    "Value__c": "CROSS",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 113286,
+    "Value__c": "PATIENT",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 763479,
+    "Value__c": "PRODUCT",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 340445,
+    "Value__c": "SEMINAR",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 141608,
+    "Value__c": "ASSERTIVE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": "051643",
+    "Value__c": "TERTIARY",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 646218,
+    "Value__c": "RELY",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 902774,
+    "Value__c": "ENTERPRISE",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": "025490",
+    "Value__c": "EMPOWERING",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 443495,
+    "Value__c": "ROTATION",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 152270,
+    "Value__c": "VISION",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 414765,
+    "Value__c": "PROTOCOL",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 924510,
+    "Value__c": "ADAPTER",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 166615,
+    "Value__c": "BULLETIN",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 265849,
+    "Value__c": "PRIVACY",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 374154,
+    "Value__c": "KICK",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 360747,
+    "Value__c": "CLICK",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 372863,
+    "Value__c": "COVERAGE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 308952,
+    "Value__c": "SOFTWARE",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 802930,
+    "Value__c": "BASE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 695845,
+    "Value__c": "FUNCTION",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 848901,
+    "Value__c": "ANALYZING",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 113094,
+    "Value__c": "HOLD",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 630293,
+    "Value__c": "POSTURE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 676782,
+    "Value__c": "DANGEROUS",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 134592,
+    "Value__c": "PROFESSION",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 150025,
+    "Value__c": "INVASION",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 395975,
+    "Value__c": "COMMUNICATION",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": "034607",
+    "Value__c": "UPGRADABLE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 242758,
+    "Value__c": "VIRTUAL",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 763762,
+    "Value__c": "PUBLIC",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": "038722",
+    "Value__c": "LEADING",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 376886,
+    "Value__c": "DAMAGE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 552328,
+    "Value__c": "SNACK",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": "017433",
+    "Value__c": "FLEXIBILITY",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 814809,
+    "Value__c": "REGIONAL",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 613051,
+    "Value__c": "CAPABILITY",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 566480,
+    "Value__c": "RANGE",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 434190,
+    "Value__c": "INTANGIBLE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 446813,
+    "Value__c": "COUNTER",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": "067359",
+    "Value__c": "CONTENT",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 988321,
+    "Value__c": "FOREGROUND",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 183954,
+    "Value__c": "ORIENTATION",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 254904,
+    "Value__c": "PILL",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 899583,
+    "Value__c": "ARCHITECTURE",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 822988,
+    "Value__c": "MIGRATION",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 895468,
+    "Value__c": "PRE-EMPTIVE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 453469,
+    "Value__c": "CULTURAL",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 547500,
+    "Value__c": "PROACTIVE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 304745,
+    "Value__c": "RE-ENGINEERED",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 276788,
+    "Value__c": "NEGOTIATION",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 480310,
+    "Value__c": "NETWORKED",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 667800,
+    "Value__c": "PERSISTENT",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": "042688",
+    "Value__c": "MAN",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 766749,
+    "Value__c": "AREA",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 219707,
+    "Value__c": "CHARM",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 258973,
+    "Value__c": "MINIMUM",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 336467,
+    "Value__c": "NATIONAL",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": "003011",
+    "Value__c": "DOG",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 531084,
+    "Value__c": "STAND",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 783058,
+    "Value__c": "PROFESS",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 954897,
+    "Value__c": "COMPETITION",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 281240,
+    "Value__c": "SOLUTION",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 887499,
+    "Value__c": "FRAMEWORK",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 163401,
+    "Value__c": "ASYNCHRONOUS",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 432664,
+    "Value__c": "ALLIANCE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 400029,
+    "Value__c": "SYNERGY",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": "066092",
+    "Value__c": "WEEK",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 219764,
+    "Value__c": "CIRCUIT",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 139093,
+    "Value__c": "DISTANCERELATIONJOKEKEYFLATLOWDISCOURAGEDESERTITEMGETSTREATSLATEABOVEPAYMENTRETIREDSHOWERHONORGEMBINDICEINSPIRECOMEDYHOSPITALPOLLUTIONMEASUREEXTENDFRAMEWIREFABRICATEEXAMINATIONDRAGONEXTENSIONNECKLACEBACONPAVEMENTTROOPCOMMUNICATIONDELIVERYTOOLFLUDRAWER",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 190957,
+    "Value__c": "ROOF",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 880673,
+    "Value__c": "ATTITUDE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 886235,
+    "Value__c": "RELAXATION",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 585736,
+    "Value__c": "HELP",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 274977,
+    "Value__c": "PIE",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": "052575",
+    "Value__c": "COURTSHIP",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 997809,
+    "Value__c": "DOWN",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": "061459",
+    "Value__c": "SERVER",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 940100,
+    "Value__c": "EVOLUTION",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 134547,
+    "Value__c": "REDO",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": "071975",
+    "Value__c": "STICKY",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 108239,
+    "Value__c": "SYNERGISTIC",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 248290,
+    "Value__c": "ORGANIZED",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 749970,
+    "Value__c": "SIGNING",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 650996,
+    "Value__c": "WORKFORCE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 627004,
+    "Value__c": "INTRANET",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 692141,
+    "Value__c": "MOBILE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 281754,
+    "Value__c": "SECURED",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 216899,
+    "Value__c": "LEVEL",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 244624,
+    "Value__c": "CHAIR",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 557039,
+    "Value__c": "RECIPROCAL",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 118599,
+    "Value__c": "HOMOGENEOUS",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 822933,
+    "Value__c": "OFFENSE",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 346719,
+    "Value__c": "MULTIMEDIA",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 863700,
+    "Value__c": "BREAK",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 437141,
+    "Value__c": "PREJUDICE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 170760,
+    "Value__c": "DEFINITION",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 488282,
+    "Value__c": "MAYOR",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 908496,
+    "Value__c": "THIGH",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 413470,
+    "Value__c": "HIERARCHY",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 469456,
+    "Value__c": "STANDARDIZATION",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 573201,
+    "Value__c": "STRATEGY",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 886314,
+    "Value__c": "PRIVILEGE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 534873,
+    "Value__c": "STANDALONE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 475411,
+    "Value__c": "UNFAIR",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": "068443",
+    "Value__c": "DRIVEN",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 172956,
+    "Value__c": "BASEBALL",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 602093,
+    "Value__c": "LOGISTICAL",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": "068318",
+    "Value__c": "PERSEVERING",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 651737,
+    "Value__c": "FACING",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 853833,
+    "Value__c": "SUPERSTRUCTURE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": "078690",
+    "Value__c": "COHERENT",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 529457,
+    "Value__c": "DEEP",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 978650,
+    "Value__c": "PERSONAL",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 840109,
+    "Value__c": "PATENT",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 981959,
+    "Value__c": "NONE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 418854,
+    "Value__c": "DIGITIZED",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 301512,
+    "Value__c": "PARACHUTE",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 176801,
+    "Value__c": "CORE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 224278,
+    "Value__c": "OBJECT",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 594743,
+    "Value__c": "TRANSMISSION",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 770536,
+    "Value__c": "SOURCE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 348822,
+    "Value__c": "FIRMWARE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": "023961",
+    "Value__c": "CONTRADICTION",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 194706,
+    "Value__c": "COMMUNIST",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 627974,
+    "Value__c": "PROFIT",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 569337,
+    "Value__c": "BLUE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 372662,
+    "Value__c": "FACE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": "015805",
+    "Value__c": "CLIENT",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 152999,
+    "Value__c": "MULTI-TIERED",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 269390,
+    "Value__c": "MANDATORY",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": "032816",
+    "Value__c": "GLASSES",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 946335,
+    "Value__c": "ENGINEERED",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": "072875",
+    "Value__c": "ROBUST",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 158839,
+    "Value__c": "SNUB",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 901370,
+    "Value__c": "WAGE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 566164,
+    "Value__c": "ATTENTION",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 165359,
+    "Value__c": "TIME",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 491143,
+    "Value__c": "LONELY",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 211383,
+    "Value__c": "ERA",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 115978,
+    "Value__c": "LINE",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 989595,
+    "Value__c": "CONTROL",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 355674,
+    "Value__c": "PAUSE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 854234,
+    "Value__c": "AUTOMATED",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 848988,
+    "Value__c": "USEFUL",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 228799,
+    "Value__c": "PREPARATION",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 328047,
+    "Value__c": "INTERMEDIATE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 517825,
+    "Value__c": "INCREMENTAL",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 647071,
+    "Value__c": "STABLE",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 517867,
+    "Value__c": "SECURE",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 136034,
+    "Value__c": "ASYMMETRIC",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 890840,
+    "Value__c": "EXCLUSIVE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 584307,
+    "Value__c": "MEDIUM",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 766013,
+    "Value__c": "NEURAL",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 305732,
+    "Value__c": "SYSTEMATIC",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 487118,
+    "Value__c": "WELL",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 495943,
+    "Value__c": "NUN",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 783027,
+    "Value__c": "FOCUSED",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 387938,
+    "Value__c": "ENABLED",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 279635,
+    "Value__c": "GRAPHIC",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 480563,
+    "Value__c": "ABLE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 882271,
+    "Value__c": "NETWORK",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 167289,
+    "Value__c": "HEAL",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 286586,
+    "Value__c": "COHESIVE",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 143563,
+    "Value__c": "EXILE",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 928667,
+    "Value__c": "HEEL",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 279079,
+    "Value__c": "INVADE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 211247,
+    "Value__c": "CLONED",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 438421,
+    "Value__c": "FUNDAMENTAL",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 194877,
+    "Value__c": "GRID",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 788203,
+    "Value__c": "SYSTEMIC",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 596395,
+    "Value__c": "MIRROR",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 149773,
+    "Value__c": "COMPANY",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 340573,
+    "Value__c": "ENHANCED",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 919818,
+    "Value__c": "REFERRAL",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 539535,
+    "Value__c": "CUSTOMIZABLE",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 208675,
+    "Value__c": "FRIENDLY",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 154330,
+    "Value__c": "STRANGE",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": 736037,
+    "Value__c": "GROUPWARE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 168273,
+    "Value__c": "WEBSITE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 409261,
+    "Value__c": "MONITORED",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": "084774",
+    "Value__c": "ADDED",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 993900,
+    "Value__c": "EXPLICIT",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 949080,
+    "Value__c": "UNRULY",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 875079,
+    "Value__c": "PEASANT",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 549809,
+    "Value__c": "REAL",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 498861,
+    "Value__c": "HEURISTIC",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 831169,
+    "Value__c": "MANAGED",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 579920,
+    "Value__c": "PROJECT",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": "040541",
+    "Value__c": "CONCEPT",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 112945,
+    "Value__c": "CHANCE",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 272068,
+    "Value__c": "UMBRELLA",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 164092,
+    "Value__c": "MISSION",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 418367,
+    "Value__c": "BI-DIRECTIONAL",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 554562,
+    "Value__c": "WRESTLE",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 364018,
+    "Value__c": "DEMAND",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 543404,
+    "Value__c": "ORGANIC",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 128050,
+    "Value__c": "INNOCENT",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": "094466",
+    "Value__c": "SERVICE",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 629369,
+    "Value__c": "CLEAR",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 111578,
+    "Value__c": "COMPATIBLE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 483763,
+    "Value__c": "BANDWIDTH",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 807269,
+    "Value__c": "AMELIORATED",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 550658,
+    "Value__c": "PLATFORM",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 137996,
+    "Value__c": "CONGLOMERATION",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": "097155",
+    "Value__c": "PILLOW",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 384818,
+    "Value__c": "USER",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": "014231",
+    "Value__c": "MODERATOR",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 360194,
+    "Value__c": "BOTTOM-LINE",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 572539,
+    "Value__c": "LOCAL",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": "059233",
+    "Value__c": "GENERATE",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 843972,
+    "Value__c": "BEEF",
+    "Category__c": "Astro"
+  },
+  {
+    "Key__c": "071481",
+    "Value__c": "EXPANDED",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": "048630",
+    "Value__c": "EXTENDED",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 579825,
+    "Value__c": "ECO-CENTRIC",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 258863,
+    "Value__c": "ONION",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 563497,
+    "Value__c": "IMPLEMENTATION",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 917761,
+    "Value__c": "TWENTY",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 197568,
+    "Value__c": "SPHERE",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 345515,
+    "Value__c": "QUESTION",
+    "Category__c": "Koa"
+  },
+  {
+    "Key__c": 250183,
+    "Value__c": "ANALYZER",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 978796,
+    "Value__c": "WHEN",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 676034,
+    "Value__c": "CASTLE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 393747,
+    "Value__c": "PRODUCE",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 567911,
+    "Value__c": "DATABASE",
+    "Category__c": "Flo"
+  },
+  {
+    "Key__c": 218509,
+    "Value__c": "VALUE",
+    "Category__c": "Max"
+  },
+  {
+    "Key__c": 744871,
+    "Value__c": "FUTURE",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 100761,
+    "Value__c": "SUSPECT",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 875034,
+    "Value__c": "MATRIX",
+    "Category__c": "Einstein"
+  },
+  {
+    "Key__c": 436489,
+    "Value__c": "OFFICE",
+    "Category__c": "Brandy"
+  },
+  {
+    "Key__c": 181156,
+    "Value__c": "INTERNET",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": 587460,
+    "Value__c": "PEANUT",
+    "Category__c": "Ruth"
+  },
+  {
+    "Key__c": 428348,
+    "Value__c": "MORNING",
+    "Category__c": "Zig"
+  },
+  {
+    "Key__c": 113539,
+    "Value__c": "SELF-ENABLING",
+    "Category__c": "Appy"
+  },
+  {
+    "Key__c": 927873,
+    "Value__c": "REACTIVE",
+    "Category__c": "Codey"
+  },
+  {
+    "Key__c": 862176,
+    "Value__c": "DISCRETE",
+    "Category__c": "Cloudy"
+  },
+  {
+    "Key__c": "015865",
+    "Value__c": "BUSINESS",
+    "Category__c": "Einstein"
+  }
+]
